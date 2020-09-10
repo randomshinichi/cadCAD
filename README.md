@@ -28,7 +28,7 @@ Requires [Python 3](https://www.python.org/downloads/)
 
 **Option A: Install Using [pip](https://pypi.org/project/cadCAD/)** 
 ```bash
-pip3 install cadCAD
+pip3 install cadCAD==0.4.16
 ```
 
 **Option B:** Build From Source
